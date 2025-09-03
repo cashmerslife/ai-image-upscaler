@@ -1,0 +1,10 @@
+gradio==4.18.0
+torch>=2.0.0
+diffusers>=0.21.0
+transformers>=4.25.0
+acceleratePillow>=9.0.0
+numpy>=1.21.0
+requests>=2.25.0
+safetensors>=0.3.0
+xformers
+compel
